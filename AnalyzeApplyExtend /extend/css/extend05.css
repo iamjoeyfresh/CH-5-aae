@@ -35,7 +35,7 @@ body {
 .relative {
     position: relative;
     top: 200px;
-    left: 70px;
+    left: 70px; 
 }
 
 /* fixed */
